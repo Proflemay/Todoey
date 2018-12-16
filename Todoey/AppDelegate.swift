@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Todoey
 //
-//  Created by Philippe Lemay on 2018-12-06.
+//  Created by Philippe Lemay on 2018-12-06, updated afterwards ;-)
 //  Copyright © 2018 LudoStudio. All rights reserved.
 //
 
