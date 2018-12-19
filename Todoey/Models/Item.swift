@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Item {
+class Item: Codable {
     
     var name:String = "Enter the item name"
     var state:Bool = false
